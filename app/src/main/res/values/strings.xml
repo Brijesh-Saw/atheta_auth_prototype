@@ -6,7 +6,7 @@
     <string name="disclaimer">If you do not login with gmail, you will not be able to use certain features in Google Drive \nwhile uploading assignments and study materials. \nWe strongly recommend you to use Gmail</string>
     <string name="skip_for_now">skip for now</string>
     <string name="nostudents">There are no students\nin your batch</string>
-    <string name="enter_email">enter email</string>
+    <string name="enter_email">Enter email</string>
     <string name="enter_password">Enter password</string>
 
     <string name="applex_in">applex.in</string>

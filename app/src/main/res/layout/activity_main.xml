@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal|bottom"
                 android:fontFamily="@font/oxygen_ex_bold"
-                android:text="Login"
+                android:text="@string/login"
                 android:visibility="visible"
                 android:textColor="#212121"
                 android:textSize="35sp" />
@@ -44,7 +44,7 @@
                 android:layout_height="75dp"
                 android:layout_marginHorizontal="30dp"
                 android:layout_marginTop="8dp"
-                android:hint="Enter email">
+                android:hint="@string/enter_email">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/email"
@@ -195,11 +195,7 @@
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:drawableLeft="@drawable/ic_baseline_local_phone_24"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                />
+                android:background="@color/white"/>
 
             <TextView
                 android:id="@+id/terms_conditions"
