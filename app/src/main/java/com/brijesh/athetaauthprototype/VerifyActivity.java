@@ -10,22 +10,20 @@ import android.widget.EditText;
 
 public class VerifyActivity extends AppCompatActivity {
     Button Verify_OTP;
-    EditText Number;
+    EditText Otp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_verify);
-
-        Number = findViewById(R.id.number);
-        Verify_OTP = findViewById(R.id.otp);
-
+        Otp = findViewById(R.id.otp_code);
+        Verify_OTP = findViewById(R.id.verify);
         Verify_OTP.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String number = Number.getText().toString();
-                if(number.isEmpty()){
-                    Number.setError("Enter Number");
+                String num = Otp.getText().toString();
+                if(num.isEmpty()){
+                    Otp.setError("Enter Number");
                 }else{
                     Intent i = new Intent(VerifyActivity.this,HomeActivity.class);
                     startActivity(i);
