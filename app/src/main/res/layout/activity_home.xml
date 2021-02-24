@@ -13,7 +13,6 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/main_page"
-        android:textSize="35sp"
-        />
+        android:textSize="35sp" />
 
 </RelativeLayout>

@@ -18,20 +18,18 @@ public class AuthActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_auth);
         Number = findViewById(R.id.number);
-     Get_OTP = findViewById(R.id.otp);
-
-     Get_OTP.setOnClickListener(new View.OnClickListener() {
-         @Override
-         public void onClick(View v) {
-             String number = Number.getText().toString();
-             if(number.isEmpty()){
-                 Number.setError("Enter Number");
-             }else
-             {
-                 Intent i = new Intent(AuthActivity.this,VerifyActivity.class);
-                 startActivity(i);
-             }
-         }
-     });
+        Get_OTP = findViewById(R.id.otp);
+        Get_OTP.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String num= Number.getText().toString();
+                if(num.isEmpty()){
+                    Number.setError("Enter Number");
+                }else{
+                    Intent i = new Intent(AuthActivity.this,VerifyActivity.class);
+                    startActivity(i);
+                }
+            }
+        });
     }
 }
