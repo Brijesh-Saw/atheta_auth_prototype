@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#ee2d24</color>-->
+    <color name="colorPrimary">#075885</color>
+    <color name="colorPrimaryLight">#D4F0FF</color>
+
+    <color name="colorPrimaryDark">#075885</color>
+    <color name="colorAccent">#0072b1</color>
+    <color name="Background">#171E30</color>
+    <color name="colorTheme">#18357C</color>
+    <color name="white">#fff</color>
+
+    <color name="billboardGreybg">#EDEFF1</color>
+    <color name="colorText">#212121</color>
+
+    <color name="follow">#0072b1</color>
+    <color name="following">#D4F0FF</color>
+
+    <color name="toolbarEnd">#00B8D4</color>
+    <color name="toolbarStart">#42A5F5</color>
+
+    <color name="chosen">#44A6AA</color>
+
+    <color name="md_blue_400">#42A5F5</color>
+    <color name="md_blue_500">#2196F3</color>
+    <color name="divider_color">#e5e5e5</color>
+    <color name="text_color_secondary">#B3B0B0</color>
+    <color name="grey">#717171</color>
+
+    //dots inactive colors
+    <color name="inactive_one">#7EAFAEAE</color>
+    <color name="inactive_two">#7EAFAEAE</color>
+    <color name="inactive_three">#7EAFAEAE</color>
+    <color name="inactive_four">#7EAFAEAE</color>
+
+    //dots active colors
+    <color name="active_one">#2196F3</color>
+    <color name="active_two">#2196F3</color>
+    <color name="active_three">#2196F3</color>
+    <color name="active_four">#2196F3</color>
+
+    <array name="active">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+    </array>
+
+    <array name="inactive">
+        <item>@color/inactive_one</item>
+        <item>@color/inactive_two</item>
+        <item>@color/inactive_three</item>
+        <item>@color/inactive_four</item>
+    </array>
+
+
+    <color name="ingr_red1">#FFCC0000</color>
+    <color name="ingr_orange1">#FFED5F21</color>
+    <color name="ingr_yellow1">#FFFAE300</color>
+    <color name="ingr_green1">#FF5B9C0A</color>
+    <color name="ingr_blue1">#FF0A0D9C</color>
+    <color name="ingr_violet1">#FF990A9C</color>
+    <color name="ingr_red2">#FFFFCCCC</color>
+    <color name="ingr_orange2">#FFFFEACC</color>
+    <color name="ingr_yellow2">#FFFFFECC</color>
+    <color name="ingr_green2">#FFC7F5C4</color>
+    <color name="ingr_blue2">#8DC1FF</color>
+    <color name="ingr_violet2">#FFE1C4F4</color>
+
+
+</resources>

@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Atheta Auth Prototype</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="disclaimer">If you do not login with gmail, you will not be able to use certain features in Google Drive \nwhile uploading assignments and study materials. \nWe strongly recommend you to use Gmail</string>
+    <string name="skip_for_now">skip for now</string>
+    <string name="nostudents">There are no students\nin your batch</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_password">Enter password</string>
+
+    <string name="applex_in">applex.in</string>
+
+    <string name="visible">Make your contact number visible to all?</string>
+    <string name="email_text">You will not be able to use Google Drive in notice, assignments and study materials if you do not use Google account</string>
+    <string name="exitdialog"> Do you want to continue ? </string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="username">abc</string>
+    <string name="trust_us_its_way_more_fun_productive_with_your_fellow_batchmates"><![CDATA[Trust us its way more fun & productive with your fellow batchmates]]></string>
+    <string name="anonymous">Anonymous</string>
+    <string name="headline1">Note: Your headline is a short and crisp introduction for your connections. Below is an example:</string>
+    <string name="headlin2"> Maths Teacher | CBSE | 9th-12th </string>
+
+    <string name="dp">Note: Having a profile picture helps your connections to notice you !!</string>
+    <string name="about1">3.8 billion people in the world use social media in their everyday lives. With more and more users joining every day, the purpose of networking is being lost.To help students leverage their coaching days to its full potential, the need of the hour is a student-centric all-in-one platform; which would not only enable them to help to organize their messed up lives, give them goals to achieve and ease the access to study materials.
+</string>
+    <string name="about2">Atheta is an attempt to completely transform the lives of students - a one of a kind Virtual Coaching environment only for our students!\nOur goal on a wider scale is to empower the students of our world with AI-powered technology, to learn from each other and strive forward in their life; organized and prepared.\n Atheta aims to help the students to express themselves, help the community and innovate.
+</string>
+    <string name="about3">Our application is designed to simplify the unorganized life of a student by providing a platform\n\n       •	to have fun in a private social networking domain ONLY for the students of that batch (no outsiders!).\n       •	to easily store NOTES / QUESTIONS BANKS / PLACEMENT REPORTS etc. for each and every batch of the tuition.\n       •	to get important NOTICES with their respective deadlines.\n       •	to remain updated with EVENTS / TESTS / WORKSHOPS happening all over the batch.\n       •	to COMMUNICATE with anyone and everyone from their tuition batch.</string>
+    <string name="about4"> We support networking and communication, thus the \'GLOBAL FEED\' is provided where all batches are present to increase networking, share tips, advice, experiences and update students about competitions, internship opportunities, test news, online courses and a lot more!! Make friends, expand your reach and collaborate!</string>
+    <string name="about5">We allow you to remain connected to your batch even at this time so that you do not miss events and news, also helping the students to easily access their alumni database.\nA single application to remain Updated, Organized and Connected to your Tuition!\nAnd of course, to learn;)
+</string>
+    <string name="noticeDetails">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus Pa including versions of Lorem Ipsum.
+</string>
+    <string-array name="Weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="orders">
+        <item>All Posts</item>
+        <item>Your City</item>
+    </string-array>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Admission">
+        <item>Open</item>
+        <item>Closed</item>
+    </string-array>
+
+
+    <string name="privacy_about">
+            <a href="https://atheta.in/privacy/">By signing in, you agree to our Privacy Policy</a>
+        </string>
+
+    <string name="termsandconditions">
+            <a href="https://atheta.in/terms-conditions/">and terms and conditions</a>
+        </string>
+
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+
+    <string-array name="Spinner_reg_as">
+        <item>Select</item>
+        <item>Teacher</item>
+        <item>Student</item>
+        <item>Parent</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">Atheta</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        Note: Your headline is a short and crisp introduction for your connections. Below is an example:
+    </string>
+    <string name="students_can_find_teachers_as_per_their_needs_n_nteachers_can_explore_amp_apply_for_suitable_jobs"><![CDATA[Students can find teachers as per their needs\n\nTeachers can explore & apply for suitable jobs]]></string>
+    <string name="create_your_network">Create your network</string>
+    <string name="create_and_apply_for_jobs">Create and Apply for Jobs</string>
+    <string name="build_connections_share_ideas_attend_events_amp_explore_your_interests"><![CDATA[Build connections, share ideas, attend events & explore your interests]]></string>
+    <string name="manage_and_connect_with_your_batch">Manage and Connect with your batch</string>
+    <string name="teachers_amp_students_get_features_like_attendance_tests_chat_amp_notice_board_at_one_place_with_atheta"><![CDATA[Teachers & Students get features like Attendance, Tests, Chat & Notice Board at one place with Atheta.]]></string>
+    <string name="no_comment">No comments yet</string>
+    <string name="display_user_name">Display User Name</string>
+    <string name="blocked">BLOCKED</string>
+    <string name="timestamp">timestamp</string>
+    <string name="name">Name</string>
+    <string name="text">text</string>
+    <string name="headline">Headline</string>
+    <string name="search">Search ...</string>
+    <string name="courses">Courses</string>
+    <string name="planner">Planner</string>
+    <string name="events">Events</string>
+    <string name="communicate">Communicate</string>
+    <string name="help">Help</string>
+    <string name="rate_us_on_google_play">Rate us on Google Play</string>
+    <string name="share_with_friend">Share with friend</string>
+    <string name="account">Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="manage">Manage</string>
+    <string name="people_institute">People/Institute</string>
+    <string name="search_interest">Search Hashtags</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="verify">Verify</string>
+    <string name="enter_otp">  Enter OTP</string>
+    <string name="login_with_phone">Login with Phone</string>
+</resources>
